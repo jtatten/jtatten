@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jtatten
+- 👋 Hi, I’m Julia
 - 👀 I’m interested in becoming a software developer focused on web development.
 - 🌱 I’m currently learning HTML, CSS, JavaScript with React and Node
 - 💞️ I’m looking to collaborate on a tee time reservation bot
